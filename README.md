@@ -6,7 +6,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 ![](/design/desktop-preview.jpg)
 
-Link: https://legendary-sprite-cea080.netlify.app/
+Link: https://polite-marshmallow-d42997.netlify.app/
 
 ### Built with:
 
